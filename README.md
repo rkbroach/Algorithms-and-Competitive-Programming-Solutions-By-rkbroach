@@ -4,3 +4,4 @@ A repository of all the questions I have solved on platforms like [Hacker Rank](
 ## Topics Covered - 
 **MATHEMATICS**
 1. [Sieve of Eratosthenes](https://github.com/rkbroach/Algorithms-and-Competitive-Programming-Solutions-By-rkbroach/blob/master/mathematics/sieve-of-eratosthenes.cpp)
+2. [GCD and LCM of Two Numbers - Efficient](https://github.com/rkbroach/Algorithms-and-Competitive-Programming-Solutions-By-rkbroach/blob/master/mathematics/gcd-and-lcm-of-two-numbers.cpp)
