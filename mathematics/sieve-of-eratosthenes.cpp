@@ -8,7 +8,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
 
 Traditional Sieve of Eratosthenes - O( n log(log n)  )
-Problem statement - https://practice.geeksforgeeks.org/problems/sieve-of-eratosthenes/0/?track=sp-mathematics&batchId=152
+Problem Statement - https://practice.geeksforgeeks.org/problems/sieve-of-eratosthenes/0/?track=sp-mathematics&batchId=152
 
 */
 
