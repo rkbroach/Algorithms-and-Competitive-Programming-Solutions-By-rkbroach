@@ -8,6 +8,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ 
 
 Problem Statement - https://practice.geeksforgeeks.org/problems/lcm-and-gcd/0/?track=sp-mathematics&batchId=152
+
 */
 
 #include <bits/stdc++.h>
