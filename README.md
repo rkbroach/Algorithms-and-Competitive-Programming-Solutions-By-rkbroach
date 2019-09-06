@@ -3,7 +3,7 @@ A repository of all the questions I have solved on platforms like [Hacker Rank](
 
 ## Topics Covered - 
 **MATHEMATICS**
-1. [Sieve of Eratosthenes](https://github.com/rkbroach/Algorithms-and-Competitive-Programming-Solutions-By-rkbroach/blob/master/mathematics/sieve-of-eratosthenes.cpp) ![Geeks_for_Geeks https://practice.geeksforgeeks.org](https://img.shields.io/badge/Geeks_for_Geeks-https://practice.geeksforgeeks.org-brightgreen.svg)
+1. [Sieve of Eratosthenes](https://github.com/rkbroach/Algorithms-and-Competitive-Programming-Solutions-By-rkbroach/blob/master/mathematics/sieve-of-eratosthenes.cpp) ![Geeks_for_Geeks @rkbroach](https://img.shields.io/badge/Geeks_for_Geeks-@rkbroach-brightgreen.svg)
 2. [GCD and LCM of Two Numbers - Efficient](https://github.com/rkbroach/Algorithms-and-Competitive-Programming-Solutions-By-rkbroach/blob/master/mathematics/gcd-and-lcm-of-two-numbers.cpp)
 3. [Adding two fractions](https://github.com/rkbroach/Algorithms-and-Competitive-Programming-Solutions-By-rkbroach/blob/master/mathematics/add-two-fractions.cpp)
 4. [Power of 2](https://github.com/rkbroach/Algorithms-and-Competitive-Programming-Solutions-By-rkbroach/blob/master/mathematics/power-of-2.cpp)
