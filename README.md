@@ -10,6 +10,7 @@ A repository of all the questions I have solved on platforms like [Hacker Rank](
 
 **STRINGS**
 1. [String Palindrome](https://github.com/rkbroach/Algorithms-and-Competitive-Programming-Solutions-By-rkbroach/tree/master/strings)
+2. [Anagram](https://github.com/rkbroach/Algorithms-and-Competitive-Programming-Solutions-By-rkbroach/blob/master/strings/anagram)
 
 **PATTERN PRINTING**
 1. [Inverted triangle of stars (*) and hash(#)](https://github.com/rkbroach/Algorithms-and-Competitive-Programming-Solutions-By-rkbroach/blob/master/pattern%20printing/inverted%20triangle%20of%20stars%20and%20hash.cpp)
