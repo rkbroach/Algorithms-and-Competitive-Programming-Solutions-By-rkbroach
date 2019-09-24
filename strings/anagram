@@ -1,0 +1,40 @@
+/*
+
+██████╗ ██╗  ██╗██████╗
+██╔══██╗██║ ██╔╝██╔══██╗
+██████╔╝█████╔╝ ██████╔╝
+██╔══██╗██╔═██╗ ██╔══██╗
+██║  ██║██║  ██╗██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
+
+Anagrams
+Problem Statement - https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/anagrams-651/
+*/
+
+#include<bits/stdc++.h>
+using namespace std;
+
+int main () {
+    int t; cin >> t;
+    string a, b;
+    while(t--) {
+        cin >> a >> b;
+    
+        int A[CHAR_MAX] = {0}, B[CHAR_MAX] = {0};
+        
+        for(int i = 0; i < a.length(); i++) {
+            A[ a[i] - 'a' ]++;
+        }
+        
+        for(int i = 0; i < b.length(); i++) {
+            B[ b[i] - 'a' ]++;
+        }
+        
+        int sum = 0;
+        for(int i = 0; i < CHAR_MAX; i++) {
+            sum += abs(A[i] - B[i]);
+        }
+        cout << sum << "\n";
+    }
+    return 0;
+}
