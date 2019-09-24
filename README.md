@@ -8,6 +8,9 @@ A repository of all the questions I have solved on platforms like [Hacker Rank](
 3. [Adding two fractions](https://github.com/rkbroach/Algorithms-and-Competitive-Programming-Solutions-By-rkbroach/blob/master/mathematics/add-two-fractions.cpp)
 4. [Power of 2](https://github.com/rkbroach/Algorithms-and-Competitive-Programming-Solutions-By-rkbroach/blob/master/mathematics/power-of-2.cpp)
 
+**STRINGS**
+1. [String Palindrome](https://github.com/rkbroach/Algorithms-and-Competitive-Programming-Solutions-By-rkbroach/tree/master/strings)
+
 **PATTERN PRINTING**
 1. [Inverted triangle of stars (*) and hash(#)](https://github.com/rkbroach/Algorithms-and-Competitive-Programming-Solutions-By-rkbroach/blob/master/pattern%20printing/inverted%20triangle%20of%20stars%20and%20hash.cpp)
 
