@@ -25,7 +25,7 @@ int main() {
 	    int n; cin >> n;
 	    ll int a[n];
 	    for (int i = 0; i < n; i++) {
-	        cin >> a[i];
+		cin >> a[i];
 	    }
 	    ll int m; cin >> m;
 	    cout << solve(a, n, m) << "\n";
